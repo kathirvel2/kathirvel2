@@ -6,5 +6,15 @@
 ![](https://streak-stats.demolab.com/?user=kathirvel2&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kathirvel2&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+name: Full-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
+
+
 ### Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

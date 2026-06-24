@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Typing SVG header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Kathirvel+%F0%9F%91%8B;Full-Stack+Developer;Building+cool+stuff+with+code+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<!-- Profile views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=kathirvel2&style=for-the-badge&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/kathirvel2?style=for-the-badge&color=blueviolet)](https://github.com/kathirvel2?tab=followers)
 
